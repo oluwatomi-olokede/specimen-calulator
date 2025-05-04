@@ -1,0 +1,17 @@
+{
+    "name": "microscope-size-converter",
+    "version": "1.0.0",
+    "description": "A simple frontend tool to convert microscope sizes to real-life sizes.",
+    "main": "index.html",
+    "scripts": {
+      "start": "serve ."
+    },
+    "dependencies": {},
+    "devDependencies": {
+      "serve": "^14.2.0"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT"
+  }
+  
